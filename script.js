@@ -1,0 +1,1 @@
+console.log("Welcome to the console! Yes, script.js does nothing besides this.");

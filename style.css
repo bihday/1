@@ -1,0 +1,10 @@
+@font-face{
+  font-family: "Calibri";
+  src: url("Calibri Regular.ttf");
+}
+
+body{
+  background: yellow;
+  color: olivedrab;
+  font-family: "Calibri";
+}
